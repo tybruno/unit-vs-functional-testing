@@ -25,5 +25,7 @@ This project requires [jupyter-lab](https://jupyter.org/install.html) to be inst
 
 `jupyter-lab`
 
+## Discussions
+Feel free to add your own comments, opinions, or ideas into the [Discussions](https://github.com/tybruno/unit-vs-functional-testing/discussions) section.
 ## Acknowledgements
 Big thank you to [Andrew Schneck](https://github.com/andrewschenck) for helping me put this together. 
