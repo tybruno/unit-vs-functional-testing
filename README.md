@@ -24,3 +24,6 @@ This project requires [jupyter-lab](https://jupyter.org/install.html) to be inst
 `git clone https://github.com/tybruno/unit-vs-functional-testing.git`
 
 `jupyter-lab`
+
+## Acknowledgements
+Big thank you to [Andrew Schneck](https://github.com/andrewschenck) for helping me put this together. 
